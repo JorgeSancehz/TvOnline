@@ -37,16 +37,16 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/LOGO-LAS-ESTRELLAS.png/revision/latest?cb=20160901194528" group-title="MEXICO",Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a4/Foro_TV_HD_2015.png/revision/latest?cb=20151018180950" group-title="MEXICO",Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",Canal 5
-http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1690.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN
-http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+https://goo.gl/9dAk6K
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN 2
 http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
@@ -154,7 +154,7 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 http://wowza2.mysoltv.com:1992/Latino_A&E_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/2000px-FOX_HD.svg.png" group-title="Premium",FOX HD
-http://wowza2.mysoltv.com:1992/Latino_Fox_HD/index.m3u8
+http://antenatv.tk/latin-8-1652510.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Premium",Cinemax
 http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
@@ -199,7 +199,7 @@ http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7x
 http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png" group-title="Premium",NatGeo
-http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1741.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BsjeUcAD9gA/TZDwITEvQxI/AAAAAAAAJxw/eaKAwb7aPWI/s1600/E%21Entertainment+Logo.jpg" group-title="Premium",E! Entertainment
 http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
@@ -220,7 +220,7 @@ http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0
 https://live14.userapi.com/637609/live/uK7viRRAfwg_cXce/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png/revision/latest?cb=20100728112637" group-title="Premium",Discovery Channel
-http://23.237.22.2:8080/lstream4/92/16/654681644949e1a53be8493e2112723e/371.flv
+http://live.tvplayerlatino.com/usuarios/src1/DiscoveryChannel/Jorge.Irving.Cancino/3vZ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="Premium",Discovery Theater
 http://190.57.234.164/V1/5/1.m3u8
@@ -241,10 +241,10 @@ http://190.57.234.164/V0/1/1.m3u8
 http://23.237.22.2:8080/lstream4/429/16/654681644949e1a53be8493e2112723e/377.flv
 
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="Premium",Nat Geo Wild
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/355.flv
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1742.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png/revision/latest?cb=20151004051845&path-prefix=es" group-title="Premium",Animal Planet
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/373.flv
+http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1743.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Premium",TLC
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
@@ -274,7 +274,7 @@ http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/217.flv
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Premium",Distrito Comedia 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/272.flv
+http://antenatv.tk/latin0-168-273910.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20151009065339&path-prefix=es" group-title="Premium",TNT Series 2
 http://23.237.22.2:8080/lstream4/469/10/787f871133435e47a2e14ab464387153/266.flv
