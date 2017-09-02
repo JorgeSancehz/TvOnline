@@ -1,53 +1,68 @@
 # TvOnline
-Tv Gratis
+Tv Gratis Jorge Sanchez
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO", Canal 5 HD
-http://Tv.iptvsensation.com:6500/live/VZEWg7Z67m/KbUEmPu1sO/15929.ts
+#EXTINF:-1,---Mexico---
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", Gala TV 
-http://Tv.iptvsensation.com:6500/live/VZEWg7Z67m/KbUEmPu1sO/15956.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_Azteca_7_HD_2011.svg/1280px-Logo_Azteca_7_HD_2011.svg.png" group-title="MEXICO",AZTECA 7
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png" group-title="MEXICO", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2439299658/4vhd8qzbyxb0j0ityr32_400x400.jpeg" group-title="MEXICO",TV Más
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 
-#EXTINF:-1 tvg-logo="https://0201.nccdn.net/1_2/000/000/171/c3c/logo.png" group-title="MEXICO", Canal 6 Saltillo
-http://192.163.250.253:1935/live/canal6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/TvAzteca2015.png/1200px-TvAzteca2015.png" group-title="MEXICO",TV Azteca
+http://cdn2.shurs.xyz/verliga/9/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="MEXICO", Multimedios Monterrey 
+#EXTINF:-1 tvg-logo="http://www.mientrastantoenmexico.mx/wp-content/uploads/2016/10/azteca_trece.png" group-title="MEXICO",Azteca Trece
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/e/e0/Teleantioquia.png/revision/latest/scale-to-width-down/640?cb=20150914163913" group-title="MEXICO",Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/297359498/logoantiestres.jpg" group-title="MEXICO",Canal Antiestrés
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://img4.wikia.nocookie.net/__cb20131230220649/venevision/es/images/d/db/Logo_de_vmastv.png" group-title="MEXICO,V Más TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?tecnotv.info?iptv.m3u8?
+
+#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/e/ef/Unicanal-logo.png/revision/latest?cb=20140115100336" group-title="MEXICO",Unicanal
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+
+#EXTINF:-1 tvg-logo="http://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="MEXICO",Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
 
-#EXTINF:-1 tvg-logo="http://tv.lawalocos.com/imagenes-canales/Univision.png" group-title="LATINO", Univision
-https://hls-ord-1a.vaughnsoft.net/den/live/live_tvhdenvivo2/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguo_logo_de_Canal_Once_%28once_TV%29.png" group-title="MEXICO",Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/5/51/Logo_Telemundo.png" group-title="LATINO", TELEMUNDO
-https://hls-ord-1a.vaughnsoft.net/ams/live/live_anahix11/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/La_Sexta.svg/966px-La_Sexta.svg.png" group-title="MEXICO",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://multiredtv.com/wp-content/uploads/2015/07/boomerang.png" group-title="Infantiles", Boomerang
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/GPF@T-1011001101001000100001010011101-ExabyteTV-holis/Ym9vbWVyYW5n/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/LOGO-LAS-ESTRELLAS.png/revision/latest?cb=20160901194528" group-title="MEXICO",Las Estrellas
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/cartoonnetwork/images/4/41/Cartoon_Network_logo.png/revision/latest?cb=20131203234145&path-prefix=es" group-title="Infantiles", Cartoon Network
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/GPF@T-1011001101001000100001010011101-ExabyteTV-holis/Y2FydG9vbm5ldHdvcms=/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a4/Foro_TV_HD_2015.png/revision/latest?cb=20151018180950" group-title="MEXICO",Foro TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/tvcable/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20150326181057&path-prefix=es" group-title="Infantiles", Discovery Kids
-http://m3u.iptvla.xyz/stream/25.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",Canal 5
+http://209.126.116.177:2086/105canal5/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.peoriapubliclibrary.org/files/Nick-Jr-logo.jpg" group-title="Infantiles", Nick JR
-http://m3u.iptvla.xyz/stream/79.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Infantiles", Nick Toons
-http://m3u.iptvla.xyz/stream/80.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN 2
+http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png/revision/latest?cb=20151004051845&path-prefix=es" group-title="CULTURA", Animal Planet
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/GPF@T-1011001101001000100001010011101-ExabyteTV-holis/YW5pbWFscGxhbmV0/visita-exabytetv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="MEXICO",6 telemundo
+http://edge5.telesport.pw/live/telemundo/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/discovery-channel-1.png" group-title="CULTURA", Discovery Channel 
-http://Tv.iptvsensation.com:6500/live/VZEWg7Z67m/KbUEmPu1sO/15935.ts
+#EXTINF:-1 tvg-logo="https://22958-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/04/univision_logo.png" group-title="MEXICO",LATINO:Univision
+http://cdnh8.iblups.com/hls/TzfgMY2JVi.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Discovery_Civilization_2011-2359x441-773804982.png" group-title="CULTURA", Discovery Civilization
-http://Tv.iptvsensation.com:6500/live/VZEWg7Z67m/KbUEmPu1sO/15936.ts
 
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549" group-title="CULTURA", Discovery H&H
-http://romeo.exabytetv.info/exabytetv-esgratis/roberta/GPF@T-1011001101001000100001010011101-ExabyteTV-holis/aG9tZWFuZGhlYWx0aA==/visita-exabytetv.m3u8
+
+
+
+
+
 
 
 
