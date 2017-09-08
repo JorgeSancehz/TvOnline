@@ -4,7 +4,7 @@
 #EXTINF:-1,**Mexico**
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Logo_Azteca_7_HD_2011.svg/1280px-Logo_Azteca_7_HD_2011.svg.png" group-title="MEXICO",AZTECA 7
-http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://tecnotv.xyz/media/azteca7
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2439299658/4vhd8qzbyxb0j0ityr32_400x400.jpeg" group-title="MEXICO",TV Más
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
@@ -45,12 +45,6 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?iptvgratis?c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",Canal 5
 http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1690.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN
-http://www.playerhd1.pw/channel.php?file=106006&width=620&height=450&autostart=true
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN 2
-http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="MEXICO",6 telemundo
 http://edge5.telesport.pw/live/telemundo/index.m3u8
 
@@ -82,6 +76,9 @@ http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/pl
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
 http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN
+http://www.playerhd1.pw/channel.php?file=106006&width=620&height=450&autostart=true
 
 
 
