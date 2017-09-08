@@ -63,13 +63,13 @@ http://cdnh8.iblups.com/hls/TzfgMY2JVi.m3u8
 #EXTINF:-1,**Deportes**
 
 #EXTINF:-1 tvg-logo="http://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="DEPORTES",ESPN
-http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+https://live95.vkuserlive.com/639906/live/Bzx9Nm5DfHJcogE3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="DEPORTES",ESPN 2
-http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+https://live94.vkuserlive.com/613503/live/B9KTNlZDfEo9S1MT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="DEPORTES",ESPN 3
-http://209.126.116.177:2086/507ESPN3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+https://live98.vkuserlive.com/637609/live/B7v6Nm5DfHIpGeQK/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports
 http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
@@ -110,7 +110,7 @@ http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=
 http://190.57.234.164/V9/1/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Disney-XD-logo.png" group-title="INFANTIL",Disney XD
-http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+https://live70.vkuserlive.com/639906/live/1s2M52NAf3_nsF86/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Disney-XD-logo.png" group-title="INFANTIL",Disney XD 2
 http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
@@ -217,7 +217,7 @@ http://190.57.234.164/V9/5/1.m3u8
 http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0cb/_/hbo_family.flv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png" group-title="Premium",History
-https://live14.userapi.com/637609/live/uK7viRRAfwg_cXce/playlist.m3u8
+https://live82.vkuserlive.com/637608/live/uK7viRRAfwgGmNES/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png/revision/latest?cb=20100728112637" group-title="Premium",Discovery Channel
 http://live.tvplayerlatino.com/usuarios/src1/DiscoveryChannel/Jorge.Irving.Cancino/3vZ.m3u8
