@@ -46,7 +46,7 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?iptvgratis?c
 http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1690.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN
-https://goo.gl/9dAk6K
+http://www.playerhd1.pw/channel.php?file=106006&width=620&height=450&autostart=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="MEXICO",TDN 2
 http://209.126.116.177:2086/TDN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
