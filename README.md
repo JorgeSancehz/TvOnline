@@ -37,7 +37,7 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/c/c5/LOGO-LAS-ESTRELLAS.png/revision/latest?cb=20160901194528" group-title="MEXICO",Las Estrellas
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/a4/Foro_TV_HD_2015.png/revision/latest?cb=20151018180950" group-title="MEXICO",Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1296_av-b.m3u8?iptvgratis?chile.m3u8
