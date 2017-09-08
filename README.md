@@ -262,7 +262,7 @@ http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
 http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
 
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png/revision/latest?cb=20140515141146" group-title="Premium",A&E 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/211.flv
+http://app.iptvultimate.com/stream/get/1?token=ZGtkZwZjKmN5
 
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d3/Comedy_Central_Logo.png/revision/latest?cb=20150109120103" group-title="Premium",Comedy Central 2
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/217.flv
