@@ -147,11 +147,11 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
 #EXTINF:-1, **Premium**
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png" group-title="Premium",A&E HD
-http://wowza2.mysoltv.com:1992/Latino_A&E_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png/revision/latest?cb=20140515141146" group-title="Premium",A&E HD
+http://app.iptvultimate.com/stream/get/1?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/2000px-FOX_HD.svg.png" group-title="Premium",FOX HD
-http://antenatv.tk/latin-8-1652510.m3u8
+http://app.iptvultimate.com/stream/get/45?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Premium",Cinemax
 http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
@@ -234,9 +234,6 @@ http://190.57.234.164/V1/4/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Premium",Discovery Turbo
 http://190.57.234.164/V0/1/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Premium",National Geographic
-http://23.237.22.2:8080/lstream4/429/16/654681644949e1a53be8493e2112723e/377.flv
-
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="Premium",Nat Geo Wild
 http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1742.m3u8
 
@@ -261,17 +258,14 @@ http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/applezone/images/9/99/Logo_De_Axn.png/revision/latest?cb=20111002162626&path-prefix=es" group-title="Premium",AXN 2
 http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
 
-#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logosfake/images/a/a4/A%26E_HD.png/revision/latest?cb=20140515141146" group-title="Premium",A&E 2
-http://app.iptvultimate.com/stream/get/1?token=ZGtkZwZjKmN5
-
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d3/Comedy_Central_Logo.png/revision/latest?cb=20150109120103" group-title="Premium",Comedy Central 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/217.flv
+http://app.iptvultimate.com/stream/get/135?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/familyguy/images/2/2c/TBS_logo.png/revision/latest?cb=20110222204011" group-title="Premium",TBS 2
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Premium",Distrito Comedia 2
-http://antenatv.tk/latin0-168-273910.m3u8
+http://app.iptvultimate.com/stream/get/32?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20151009065339&path-prefix=es" group-title="Premium",TNT Series 2
 http://23.237.22.2:8080/lstream4/469/10/787f871133435e47a2e14ab464387153/266.flv
