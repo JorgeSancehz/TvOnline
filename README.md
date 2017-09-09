@@ -171,8 +171,11 @@ http://app.iptvultimate.com/stream/get/45?token=ZGtkZwZjKmN5|User-Agent: Lavf/57
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/5c/Fox_Life_logo.png/revision/latest?cb=20101128201930" group-title="Premium",FOX Life
 http://app.iptvultimate.com/stream/get/50?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png" group-title="Premium",NatGeo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png" group-title="Premium",NatGeo HD
 http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
+
+#EXTINF:-1 tvg-logo="http://www.proyectopescares.com/wp-content/uploads/2015/02/Caza-y-Pesca-Logotipo.jpg" group-title="Premium",Caza Y Pesa HD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/348.ts
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BsjeUcAD9gA/TZDwITEvQxI/AAAAAAAAJxw/eaKAwb7aPWI/s1600/E%21Entertainment+Logo.jpg" group-title="Premium",E! Entertainment
 http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
