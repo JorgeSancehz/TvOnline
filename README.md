@@ -66,13 +66,13 @@ https://live94.vkuserlive.com/613503/live/B9KTNlZDfEo9S1MT/playlist.m3u8
 https://live98.vkuserlive.com/637609/live/B7v6Nm5DfHIpGeQK/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sports_Logo.png" group-title="DEPORTES",Fox Sports
-http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/52?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7e/Fox_Sports_2_logo.png" group-title="DEPORTES",Fox Sports 2
-http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/53?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png" group-title="DEPORTES",Fox Sports 3
-http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+http://getsoffers.com/lat12mmasdsbdsudu-9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png" group-title="DEPORTES",Claro Sports
 http://209.126.116.177:2086/504clarosport/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
@@ -172,7 +172,7 @@ http://app.iptvultimate.com/stream/get/45?token=ZGtkZwZjKmN5|User-Agent: Lavf/57
 http://app.iptvultimate.com/stream/get/50?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png" group-title="Premium",NatGeo
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1741.m3u8
+http://144.217.181.197:25461/live/appandroid/app/50.m3u8|User-Agent: Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BsjeUcAD9gA/TZDwITEvQxI/AAAAAAAAJxw/eaKAwb7aPWI/s1600/E%21Entertainment+Logo.jpg" group-title="Premium",E! Entertainment
 http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
@@ -190,31 +190,31 @@ http://190.57.234.164/V9/5/1.m3u8
 http://23.237.22.2:8080/lstream2/5908304f7efd824f7a2fe624/5900bc02970b1071e240b0cb/_/hbo_family.flv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png" group-title="Premium",History
-https://live82.vkuserlive.com/637608/live/uK7viRRAfwgGmNES/playlist.m3u8
+http://app.iptvultimate.com/stream/get/67?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/34/Discovery_Channel_2000.png/revision/latest?cb=20100728112637" group-title="Premium",Discovery Channel
-http://live.tvplayerlatino.com/usuarios/src1/DiscoveryChannel/Jorge.Irving.Cancino/3vZ.m3u8
+http://52.175.230.75:25461/live/4DyqVQwWQD/KW7CHNtLV5/282.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2000px-2015_Discovery_theater_HD_logo.svg.png" group-title="Premium",Discovery Theater
-http://190.57.234.164/V1/5/1.m3u8
+http://app.iptvultimate.com/stream/get/27?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20110127062351/logopedia/images/9/9b/Discovery_Civilization_2011.png" group-title="Premium",Discovery Civilization
-http://190.57.234.164/V0/2/1.m3u8
+http://app.iptvultimate.com/stream/get/23?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://tudotv.tv/fotos/faab482c2bfb215e095b40e47eedd3c4.png" group-title="Premium",Discovery Science
-http://190.57.234.164/V0/3/1.m3u8
+http://app.iptvultimate.com/stream/get/26?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" group-title="Premium",Discovery World
-http://190.57.234.164/V1/4/1.m3u8
+http://144.217.181.197:25461/live/appandroid/app/54.m3u8|User-Agent: Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Premium",Discovery Turbo
-http://190.57.234.164/V0/1/1.m3u8
+http://app.iptvultimate.com/stream/get/28?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/nat_geo_wild_lam.png.300x300_q85.png" group-title="Premium",Nat Geo Wild
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1742.m3u8
+http://app.iptvultimate.com/stream/get/77?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/1/16/Animal_Planet_original.png/revision/latest?cb=20151004051845&path-prefix=es" group-title="Premium",Animal Planet
-http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1743.m3u8
+http://app.iptvultimate.com/stream/get/3?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="Premium",TLC
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/386.flv
@@ -252,8 +252,6 @@ http://23.237.22.2:8080/lstream4/436/10/787f871133435e47a2e14ab464387153/271.flv
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_5617_6_114834.png" group-title="Premium",Mundo Fox 2
 http://190.57.234.164/V0/4/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/E%21_Logo.png" group-title="Premium",E! 2
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/255.flv
 
 
 
