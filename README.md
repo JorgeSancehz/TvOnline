@@ -154,46 +154,46 @@ http://app.iptvultimate.com/stream/get/1?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.
 http://app.iptvultimate.com/stream/get/45?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.102
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Premium",Cinemax
-http://23.237.22.2:8080/lstream4/401/10/787f871133435e47a2e14ab464387153/481.flv
+http://app.iptvultimate.com/stream/get/20?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-BgPocZVKhFA/VPTsxk6MufI/AAAAAAAAAD4/CMcxFVYYsLA/s1600/Imagen1.png" group-title="Premium",Cinecanal
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/430.flv
+http://app.iptvultimate.com/stream/get/19?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/es.starwars/images/2/2c/Tnt_logo.png/revision/latest?cb=20091230061033" group-title="Premium",TNT
-http://23.237.22.2:8080/lstream4/77/10/787f871133435e47a2e14ab464387153/435.flv
+http://app.iptvultimate.com/stream/get/179?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/6/68/Logo_TNT_Series.png/revision/latest?cb=20151009065339&path-prefix=es" group-title="Premium",TNT Series
-http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://144.217.181.197:25461/live/appandroid/app/79.m3u8|User-Agent: Lavf/56.15.102
 
 #EXTINF:-1 tvg-logo="http://videocabledolores.com.ar/wp-content/uploads/2014/12/SPACE.png" group-title="Premium",Space
-http://23.237.22.2:8080/lstream4/402/10/787f871133435e47a2e14ab464387153/445.flv
+http://app.iptvultimate.com/stream/get/83?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/556px-Paramount_Channel.svg.png/revision/latest?cb=20151009064853&path-prefix=es" group-title="Premium",Paramount Channel
 http://190.57.234.164/V6/8/1.m3u8
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f7/Studio_Universal_2010.png/revision/latest?cb=20160621215807&path-prefix=es" group-title="Premium",Studio Universal
-http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/84?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2000px-Universal_Channel_Logo_2013.svg.png" group-title="Premium",Universal Channel
-http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/181?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="Premium",SyFy
-http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/151?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20151009191714&path-prefix=es" group-title="Premium",AXN
-http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/146?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://4vector.com/i/free-vector-warner-channel_061518_warner-channel.png" group-title="Premium",Warner Channel
-http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/102?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/logosfake/images/2/21/FX_HD_logo.png/revision/latest?cb=20140310141011" group-title="Premium",FX
-http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/42?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/2c/Fox_hd.png/revision/latest?cb=20110408042951" group-title="Premium",Fox
-http://209.126.116.177:2086/202CanalFOXMexico/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/45?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.102
 
 #EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/logopedia/images/5/5c/Fox_Life_logo.png/revision/latest?cb=20101128201930" group-title="Premium",FOX Life
-http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+http://app.iptvultimate.com/stream/get/50?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png" group-title="Premium",NatGeo
 http://xc.cobra-iptv.com:25461/live/french-v2/wlfeenB1NB/1741.m3u8
