@@ -172,7 +172,7 @@ http://app.iptvultimate.com/stream/get/45?token=ZGtkZwZjKmN5|User-Agent: Lavf/57
 http://app.iptvultimate.com/stream/get/50?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/2000px-National_Geographic_Channel.svg.png" group-title="Premium",NatGeo
-http://144.217.181.197:25461/live/appandroid/app/50.m3u8|User-Agent: Lavf/56.15.102
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/186.ts
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-BsjeUcAD9gA/TZDwITEvQxI/AAAAAAAAJxw/eaKAwb7aPWI/s1600/E%21Entertainment+Logo.jpg" group-title="Premium",E! Entertainment
 http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
@@ -235,7 +235,7 @@ http://23.237.22.2:8080/lstream4/396/10/787f871133435e47a2e14ab464387153/203.flv
 http://23.237.22.2:8080/lstream4/404/10/787f871133435e47a2e14ab464387153/213.flv
 
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/logopedia/images/d/d3/Comedy_Central_Logo.png/revision/latest?cb=20150109120103" group-title="Premium",Comedy Central 2
-http://app.iptvultimate.com/stream/get/135?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/195.ts
 
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/familyguy/images/2/2c/TBS_logo.png/revision/latest?cb=20110222204011" group-title="Premium",TBS 2
 http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/273.flv
