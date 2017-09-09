@@ -86,58 +86,34 @@ http://www.playerhd1.pw/channel.php?file=106006&width=620&height=450&autostart=t
 #EXTINF:-1,**Infantil**
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/disney/images/e/e3/DisneyChannel_logo.png/revision/latest?cb=20140527134657&path-prefix=es" group-title="INFANTIL",Disney Channel
-http://23.237.22.2:8080/lstream4/104/14/654681644949e1a53be8493e2112723e/312.flv
+http://app.iptvultimate.com/stream/get/29?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/6/62/Discovery_kids_logo.png/revision/latest?cb=20140504201343&path-prefix=es" group-title="INFANTIL",Discovery Kids
-http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/doblaje/images/6/62/Discovery_kids_logo.png/revision/latest?cb=20140504201343&path-prefix=es" group-title="INFANTIL",Discovery Kids 2
-http://190.57.234.164/V1/3/1.m3u8
+http://app.iptvultimate.com/stream/get/25?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/fe/CARTOON_NETWORK_logo.png/revision/latest?cb=20111206183320" group-title="INFANTIL",Cartoon Network
-http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/fe/CARTOON_NETWORK_logo.png/revision/latest?cb=20111206183320" group-title="INFANTIL",Cartoon Network 2
-http://23.237.22.2:8080/lstream4/106/14/654681644949e1a53be8493e2112723e/320.flv
+http://app.iptvultimate.com/stream/get/17?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/disney/images/a/aa/Disney_Junior_HD.png/revision/latest?cb=20150813205100" group-title="INFANTIL",Disney Jr
-http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette2.wikia.nocookie.net/disney/images/a/aa/Disney_Junior_HD.png/revision/latest?cb=20150813205100" group-title="INFANTIL",Disney Junior 2
-http://190.57.234.164/V9/1/1.m3u8
+http://app.iptvultimate.com/stream/get/30?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Disney-XD-logo.png" group-title="INFANTIL",Disney XD
-https://live70.vkuserlive.com/639906/live/1s2M52NAf3_nsF86/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/Disney-XD-logo.png" group-title="INFANTIL",Disney XD 2
-http://23.237.22.2:8080/lstream4/107/14/654681644949e1a53be8493e2112723e/322.flv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Nick_HD.png" group-title="INFANTIL",Nick
-http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="INFANTIL",Nick 2
-http://23.237.22.2:8080/lstream4/105/14/654681644949e1a53be8493e2112723e/317.flv
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Nick_HD_Logo.svg/2000px-Nick_HD_Logo.svg.png" group-title="INFANTIL",Nick 3
-http://190.57.234.164/V3/3/1.m3u8
+http://app.iptvultimate.com/stream/get/31?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/24/Nick_Jr._HD.png/revision/latest?cb=20130808040908" group-title="INFANTIL",Nick JR
-http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/2/24/Nick_Jr._HD.png/revision/latest?cb=20130808040908" group-title="INFANTIL",Nick Jr 2
-http://190.57.234.164/V6/2/1.m3u8
+http://app.iptvultimate.com/stream/get/79?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="INFANTIL",Nick Toons
 http://190.57.234.164/V6/1/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="INFANTIL",Tooncast
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/328.flv
+http://app.iptvultimate.com/stream/get/95?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://vignette3.wikia.nocookie.net/doblaje/images/2/25/Boomerang_Latin_America_logo.svg.png/revision/latest?cb=20160422184114&path-prefix=es" group-title="INFANTIL",Boomerang
-http://23.237.22.2:8080/lstream4/440/14/654681644949e1a53be8493e2112723e/324.flv
+http://app.iptvultimate.com/stream/get/11?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/Tiin_logo.png" group-title="INFANTIL",Tiin
-http://23.237.22.2:8080/lstream4/106/14/be68dc71bdba115e9b30790158ae463a/325.flv
+http://app.iptvultimate.com/stream/get/93?token=ZGtkZwZjKmN5|User-Agent: Lavf/57.71.100
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="INFANTIL",Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
